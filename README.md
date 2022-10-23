@@ -3,7 +3,7 @@
 ## I'm a GameDev
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more about Unity/UE
+- 🥅 2023 Goals: Learn more about Unity/UE
 
 ### Connect with me:
 
