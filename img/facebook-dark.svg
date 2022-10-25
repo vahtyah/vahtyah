@@ -1,3 +1,6 @@
-<?xml version="1.0" standalone="no"?>
-        <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
-        "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M400 32H48A48 48 0 0 0 0 80v352a48 48 0 0 0 48 48h137.25V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.27c-30.81 0-40.42 19.12-40.42 38.73V256h68.78l-11 71.69h-57.78V480H400a48 48 0 0 0 48-48V80a48 48 0 0 0-48-48z"/></svg>  
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21px" height="24px" viewBox="0 0 21 24" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 18.75 1.5 L 2.25 1.5 C 1.007812 1.5 0 2.507812 0 3.75 L 0 20.25 C 0 21.492188 1.007812 22.5 2.25 22.5 L 8.683594 22.5 L 8.683594 15.359375 L 5.730469 15.359375 L 5.730469 12 L 8.683594 12 L 8.683594 9.4375 C 8.683594 6.527344 10.417969 4.917969 13.074219 4.917969 C 14.347656 4.917969 15.675781 5.144531 15.675781 5.144531 L 15.675781 8.003906 L 14.210938 8.003906 C 12.765625 8.003906 12.316406 8.898438 12.316406 9.816406 L 12.316406 12 L 15.539062 12 L 15.023438 15.359375 L 12.316406 15.359375 L 12.316406 22.5 L 18.75 22.5 C 19.992188 22.5 21 21.492188 21 20.25 L 21 3.75 C 21 2.507812 19.992188 1.5 18.75 1.5 Z M 18.75 1.5 "/>
+</g>
+</svg>
