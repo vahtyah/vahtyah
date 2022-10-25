@@ -8,7 +8,7 @@
 ### Connect with me:
 
 
-[![website](./img/facebook-dark.svg)](https://www.facebook.com/tuaansmeos/#gh-dark-mode-only)
+[![website](./img/facebook-circle-line-white.svg)](https://www.facebook.com/tuaansmeos/#gh-dark-mode-only)
 [![website](./img/facebook-light.svg)](https://www.facebook.com/tuaansmeos/#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCpk8N1C_mPkIc8ngGFDTj0w#gh-dark-mode-only)
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCpk8N1C_mPkIc8ngGFDTj0w#gh-light-mode-only)
