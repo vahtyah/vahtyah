@@ -4,4 +4,4 @@
 [![website](./img/facebook-light.svg)](https://www.facebook.com/vahtyah/#gh-light-mode-only)
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vahtyah/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vahtyah/#gh-dark-mode-only)
-[![website](./img/leetcode-dark.svg){ width=24 }](https://www.linkedin.com/in/vahtyah/#gh-dark-mode-only)
+[![website](./img/leetcode-dark.svg){ height="24px" width="24px" }](https://www.linkedin.com/in/vahtyah/#gh-dark-mode-only)
