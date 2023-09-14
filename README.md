@@ -4,3 +4,4 @@
 [![website](./img/facebook-light.svg)](https://www.facebook.com/vahtyah/#gh-light-mode-only)
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vahtyah/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vahtyah/#gh-dark-mode-only)
+[![website](./img/leetcode-dark.svg)](https://leetcode.com/8268826/#gh-dark-mode-only)
